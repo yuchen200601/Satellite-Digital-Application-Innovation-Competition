@@ -1,2 +1,2 @@
 # Satellite-Digital-Application-Innovation-Competition
-Satellite Digital Application Innovation Competition NTTU Group 4
+作業系統與系統程式_衛星數位應用創新大賽_第四組
